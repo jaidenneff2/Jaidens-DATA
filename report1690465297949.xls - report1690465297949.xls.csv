@@ -1,4 +1,4 @@
-Account Name,Churned Amount (converted) Currency,Churned Amount (converted),Approx. Close Date,Territory,Billing Country,Screening,Churn Reason,Churn Detail,Churn Summary,Agency Group,Brandwatch Products,Fiscal Period
+Account Name,Churned currency,Churned Amount,Approx. Close Date,Territory,Billing Country,Screening,Churn Reason,Churn Detail,Churn Summary,Agency Group,Brandwatch Products,Fiscal Period
 Kantar SAS,USD,3085.5,1/6/2022,EMEA,France,Small Business,Nature of Business,,,WPP,Brandwatch Consumer Research (BCR) - Premium - Mentions account;Historical Mentions;,Q1-2022
 Impact BBDO,USD,593,1/6/2022,EMEA,United Arab Emirates,Medium Business,Price/Packaging,,,Omnicom,B4A - Brandwatch Consumer Research (BCR) - Individual Account - Premium;,Q1-2022
 Pepsico (mexico),USD,5000,1/10/2022,Americas,Mexico,Top Business,Product,,,,Brandwatch Consumer Research (BCR) - Enterprise - Mentions Account;Historical Mentions;,Q1-2022
